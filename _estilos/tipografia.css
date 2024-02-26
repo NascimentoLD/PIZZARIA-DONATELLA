@@ -114,3 +114,11 @@ section#pizza ul li{
     font-size: 90%;
     text-transform: uppercase;
 }
+
+/* ----- SECTION - DEPOIMENTOS */
+
+section#testemunhas p.destaque{
+    width: 40%;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
